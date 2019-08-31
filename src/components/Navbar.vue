@@ -37,21 +37,21 @@ export default {
     data() {
         return {
             items: [
-                {icon: "mdi-account", text: 'Home'},
-                {icon: "mdi-arrow-left-right", text: 'ABOUT'},
-                {icon: "mdi-layers", text: 'EDUCATION'},
-                {icon: "mdi-chart-bar", text: 'SKILLS'},
-                {icon: "mdi-castle ", text: 'EXPERIENCE'},
-                {icon: "mdi-google-podcast", text: 'PORTFOLLIOS'},
-                {icon: "mdi-bottle-tonic-outline", text: 'INTEREST'},
-                {icon: "mdi-arrow-expand-right", text: 'TESTIMONIALS'},
-                {icon: "mdi-arrow-left-right-bold-outline", text: 'PRICING'},
-                {icon: "mdi-arrow-left-box", text: 'BLOG'},
-                {icon: "mdi-arrow-up-bold-circle-outline", text: 'CONTACT'},
+                {icon: "mdi-account", text: "Home"},
+                {icon: "mdi-arrow-left-right", text: "ABOUT"},
+                {icon: "mdi-layers", text: "EDUCATION"},
+                {icon: "mdi-chart-bar", text: "SKILLS"},
+                {icon: "mdi-castle ", text: "EXPERIENCE"},
+                {icon: "mdi-google-podcast", text: "PORTFOLLIOS"},
+                {icon: "mdi-bottle-tonic-outline", text: "INTEREST"},
+                {icon: "mdi-arrow-expand-right", text: "TESTIMONIALS"},
+                {icon: "mdi-arrow-left-right-bold-outline", text: "PRICING"},
+                {icon: "mdi-arrow-left-box", text: "BLOG"},
+                {icon: "mdi-arrow-up-bold-circle-outline", text: "CONTACT"},
             ]
         }
     },
     methods: {
     }
-}
+};
 </script>
