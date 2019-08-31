@@ -1,9 +1,18 @@
 <template>
-    <nav>
-        <v-app-bar-nav-icon @click="showSidebar" v-if="!drawer"></v-app-bar-nav-icon>
-        <v-icon @click="showSidebar" v-else>mdi-close</v-icon>
+    <div>
+        <v-toolbar
+            dark
+            prominent
+            src="../assets/images/backgrounds/background.jpg"
+            width= 100%;
+            height= 370px;
+            >
+            <v-app-bar-nav-icon @click="showSidebar" v-if="!drawer" class="menu-wrap"></v-app-bar-nav-icon>
+            <v-icon @click="showSidebar" v-else  class="menu-wrap">mdi-close</v-icon>
 
-        <v-navigation-drawer v-model="drawer" app class="padless">
+            <div class="flex-grow-1"></div>
+        </v-toolbar>
+        <v-navigation-drawer v-model="drawer" app class="padless menu-wrap1">
             <v-card
                 max-height="240"
                 class="mx-auto">
@@ -13,7 +22,7 @@
                     src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
                     > </v-img>
                 <v-list disabled>
-                    <v-subheader>REPORTS</v-subheader>
+                    
                     <v-list-item-group v-model="item" color="primary">
                         <v-list-item v-for="(item, i) in items" :key="i" >
                             <v-list-item-icon>
@@ -28,7 +37,7 @@
                 
             </v-card>
         </v-navigation-drawer>
-    </nav>
+    </div>
 </template>
 <script>
 export default {
