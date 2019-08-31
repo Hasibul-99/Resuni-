@@ -7,8 +7,6 @@
             width= 100%;
             height= 370px;
             >
-            <v-app-bar-nav-icon @click="showSidebar" v-if="!drawer" class="menu-wrap"></v-app-bar-nav-icon>
-            <v-icon @click="showSidebar" v-else  class="menu-wrap">mdi-close</v-icon>
 
             <div class="flex-grow-1"></div>
         </v-toolbar>
@@ -23,16 +21,10 @@
                     > </v-img>
                 <v-list disabled>
                     
-                    <v-list-item-group v-model="item" color="primary">
-                        <v-list-item v-for="(item, i) in items" :key="i" >
-                            <v-list-item-icon>
-                                <v-icon v-text="item.icon"></v-icon>
-                            </v-list-item-icon>
-                            <v-list-item-content>
-                                <v-list-item-title v-text="item.text"></v-list-item-title>
-                            </v-list-item-content>
-                        </v-list-item>
-                    </v-list-item-group>
+                <v-list-item v-for="(item, i) in items" :key="i" >
+                    <v-list-item-icon> <v-icon v-text="item.icon"></v-icon> </v-list-item-icon>
+                    <v-list-item-content> <v-list-item-title v-text="item.text"></v-list-item-title> </v-list-item-content>
+                </v-list-item>
                 </v-list>
                 
             </v-card>
@@ -41,9 +33,9 @@
 </template>
 <script>
 export default {
+    props: ['drawer'],
     data() {
         return {
-            drawer: false,
             items: [
                 {icon: "mdi-account", text: 'Home'},
                 {icon: "mdi-arrow-left-right", text: 'ABOUT'},
@@ -60,9 +52,6 @@ export default {
         }
     },
     methods: {
-        showSidebar() {
-            this.drawer = !this.drawer;
-        }
     }
 }
 </script>
