@@ -7,6 +7,9 @@
         <Navbar :drawer="drawer"></Navbar>
         <Home></Home>
         <ProfileCard></ProfileCard>
+        <Education></Education>
+        <Skills></Skills>
+        <Experience></Experience>
     </div>
 </template>
 
@@ -14,6 +17,9 @@
 import Home from "./Home";
 import ProfileCard from "./Profile-card";
 import Navbar from "./Navbar";
+import Education from "./Education";
+import Skills from "./Skills";
+import Experience from "./Experience";
 
 export default {
     data() {
@@ -25,6 +31,9 @@ export default {
         Home,
         ProfileCard,
         Navbar,
+        Education,
+        Skills,
+        Experience
     },
     methods: {
         showSidebar() {
