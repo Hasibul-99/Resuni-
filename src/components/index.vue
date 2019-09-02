@@ -10,6 +10,8 @@
         <Education></Education>
         <Skills></Skills>
         <Experience></Experience>
+        <Interest></Interest>
+        <Testimonial></Testimonial>
     </div>
 </template>
 
@@ -20,6 +22,8 @@ import Navbar from "./Navbar";
 import Education from "./Education";
 import Skills from "./Skills";
 import Experience from "./Experience";
+import Interest from "./Interest";
+import Testimonial from "./Testimonials"; 
 
 export default {
     data() {
@@ -33,7 +37,10 @@ export default {
         Navbar,
         Education,
         Skills,
-        Experience
+        Experience,
+        Interest,
+        Testimonial
+
     },
     methods: {
         showSidebar() {
