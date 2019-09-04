@@ -12,6 +12,7 @@
         <Experience></Experience>
         <Interest></Interest>
         <Testimonial></Testimonial>
+        <Blog></Blog>
     </div>
 </template>
 
@@ -24,6 +25,7 @@ import Skills from "./Skills";
 import Experience from "./Experience";
 import Interest from "./Interest";
 import Testimonial from "./Testimonials"; 
+import Blog from "./Blog";
 
 export default {
     data() {
@@ -39,8 +41,8 @@ export default {
         Skills,
         Experience,
         Interest,
-        Testimonial
-
+        Testimonial,
+        Blog
     },
     methods: {
         showSidebar() {
