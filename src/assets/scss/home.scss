@@ -175,7 +175,7 @@ body {
 }
 
 
-.blog-content {
+.blog-card {
     .breadcrumb {
         padding: 0;
         background: none;
@@ -191,6 +191,26 @@ body {
         a {
             border-bottom: 1px solid gainsboro;
             text-decoration: none;
+        }
+    }
+
+    .image-overlay {
+        display: none;
+    }
+
+    .blog-content {
+        padding: 0 10px 0 10px;
+
+        .blog {
+            margin: 0;
+        }
+
+        &:first-child {
+            padding-top: 10px;
+        }
+         
+        &:last-child {
+            padding-bottom: 10px; 
         }
     }
 }
