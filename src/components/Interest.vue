@@ -1,5 +1,5 @@
 <template>
-    <div class="section-container section interest">
+    <div id="js-interest" class="section-container section interest">
          <v-container class="">
              <div class="section-title text-center mb-10">
                 <img src="../assets/images/icons/heart.png" width="50">

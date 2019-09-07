@@ -1,5 +1,5 @@
 <template>
-    <div class="section-container section interest">
+    <div id="js-contact" class="section-container section interest">
         <v-container>
             <div class="section-title text-center mb-10">
                 <img src="../assets/images/icons/envelope.png" width="50">

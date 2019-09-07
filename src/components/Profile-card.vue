@@ -44,7 +44,7 @@
             </v-container>
         </div>
  
-        <div class="mx-auto theme--light section">
+        <div id="js-about" class="mx-auto theme--light section">
             <v-container class="">
                 <v-card class="about-details">
                     <v-card-text>
