@@ -1,0 +1,91 @@
+[Info  - 12:21:09 AM] Linter is running.
+[Info  - 12:21:12 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/Navbar.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 12:28:22 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/main.js
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 12:32:39 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/Navbar.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:08:50 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/Home.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:09:05 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/Interest.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:09:18 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/index.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:09:47 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/Interest.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:10:00 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/Skills.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:10:02 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/Testimonials.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:10:10 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/views/About.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:10:11 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/views/Home.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:10:14 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/views/About.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:10:56 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/Profile-card.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:22:01 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/Profile-card.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.
+[Info  - 1:22:52 AM] 
+Failed to load the TSLint library for the document /home/tushar/Documents/Vue/my-resume/src/components/Navbar.vue
+
+To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
+TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
+You need to reopen the workspace after installing tslint.

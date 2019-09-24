@@ -17,7 +17,7 @@
                 <v-img
                     class="white--text"
                     height="240px"
-                    src="https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+                    src="../assets/images/profile/top.jpg"
                     > </v-img>
                 <v-list inactive>
                     <v-list-item v-for="(item, i) in items" :key="i" class="pointer" @click="papsictionChange(item.text)">
@@ -37,16 +37,16 @@ export default {
         return {
             items: [
                 {icon: "mdi-account", text: "HOME"},
-                {icon: "mdi-arrow-left-right", text: "ABOUT"},
-                {icon: "mdi-layers", text: "EDUCATION"},
-                {icon: "mdi-chart-bar", text: "SKILLS"},
-                {icon: "mdi-castle ", text: "EXPERIENCE"},
+                {icon: "mdi-av-timer", text: "ABOUT"},
+                {icon: "mdi-school", text: "EDUCATION"},
+                {icon: "mdi-chart-gantt", text: "SKILLS"},
+                {icon: "mdi-briefcase", text: "EXPERIENCE"},
                 // {icon: "mdi-google-podcast", text: "PORTFOLLIOS"},
-                {icon: "mdi-bottle-tonic-outline", text: "INTEREST"},
-                {icon: "mdi-arrow-expand-right", text: "TESTIMONIALS"},
+                {icon: "mdi-heart", text: "INTEREST"},
+                {icon: "mdi-account-group", text: "TESTIMONIALS"},
                 // {icon: "mdi-arrow-left-right-bold-outline", text: "PRICING"},
-                {icon: "mdi-arrow-left-box", text: "BLOG"},
-                {icon: "mdi-arrow-up-bold-circle-outline", text: "CONTACT"},
+                {icon: "mdi-lead-pencil", text: "BLOG"},
+                {icon: "mdi-email", text: "CONTACT"},
             ]
         }
     },
