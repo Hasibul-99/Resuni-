@@ -35,7 +35,7 @@
 
               <div class="profile-image-right">
                 <v-img
-                  class="white--text"
+                  class="white--text main-profile-image"
                   height="auto"
                   width="400px"
                   src="../assets/images/profile/image.jpg"

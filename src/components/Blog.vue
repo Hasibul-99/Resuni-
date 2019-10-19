@@ -9,7 +9,7 @@
                 <v-container class="blog-content">
                     <v-row class=" blog odd">
                         <v-col class="xs-12 md-6 sm-12 lg-6 xl-6 image pa-0">
-                            <img alt="blog-image float-left" width="450" src="../assets/images/blog/blog-2.png">
+                            <img alt="blog-image float-left" src="../assets/images/blog/blog-2.png">
                             <div class="image-overlay text-right wow slideInLeft">
                                 <div class="comments">
                                     <i class="fa fa-user"></i> John Doe
@@ -51,7 +51,7 @@
                         </v-col>
 
                         <v-col class="xs-12 md-6 sm-12 lg-6 xl-6 image pa-0">
-                            <img alt="blog-image float-left" width="450" src="../assets/images/blog/blog-2.png">
+                            <img alt="blog-image float-left" src="../assets/images/blog/blog-2.png">
                             <div class="image-overlay text-right">
                                 <div class="comments">
                                     <i class="fa fa-user"></i> John Doe

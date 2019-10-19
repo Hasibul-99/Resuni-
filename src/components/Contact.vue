@@ -29,7 +29,7 @@
                             :center="center"
                             :zoom="15"
                             map-type-id="terrain"
-                            style="width: 500px; height: 500px"
+                            class="google-map-style"
                             >
                             <GmapMarker :key="index" v-for="(m, index) in markers" :position="m.position"
                                 :clickable="true"
@@ -43,7 +43,7 @@
         </v-container>
     </div>
 </template>
-
+//  style="width: 500px; height: 500px"
 <script>
     export default {
         data: () => ({
