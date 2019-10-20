@@ -1,11 +1,11 @@
 <template>
-    <div id="js-blog" class="section-container section interest">
-         <v-container class="">
-             <div class="section-title text-center mb-10">
-                <img src="../assets/images/icons/post-it.png" width="50">
-                <span class="section-text-title"> BLOG </span>
-             </div>
-            <v-card class="blog-card">
+  <div id="js-blog" class="section-container section interest">
+    <v-container class>
+      <div class="section-title text-center mb-10">
+        <img src="../assets/images/icons/post-it.png" width="50" />
+        <span class="section-text-title">BLOG</span>
+      </div>
+      <!-- <v-card class="blog-card">
                 <v-container class="blog-content">
                     <v-row class=" blog odd">
                         <v-col class="xs-12 md-6 sm-12 lg-6 xl-6 image pa-0">
@@ -63,13 +63,28 @@
                         </v-col>
                     </v-row>
                 </v-container> 
-            </v-card>
-         </v-container>
-    </div>
-
+      </v-card>-->
+      <v-row class="blog-item-row">
+          <div v-for="blog in bolgs" v-bind:key="blog.id">
+            <blog-Item :blogId="blog.id"></blog-Item>
+          </div>
+      </v-row>
+    </v-container>
+  </div>
 </template>
 <script>
+import blogItem from "./Blog-item";
 export default {
-    
-}
+  data() {
+    return {
+      bolgs: [
+        {id: '1'},
+        {id: '2'},
+      ]
+    };
+  },
+  components: {
+    "blog-Item": blogItem
+  }
+};
 </script>

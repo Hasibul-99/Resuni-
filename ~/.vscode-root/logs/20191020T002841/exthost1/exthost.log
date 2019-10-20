@@ -1,0 +1,140 @@
+[2019-10-20 00:28:49.642] [exthost] [info] extension host started
+[2019-10-20 00:28:49.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-10-20 00:28:49.670] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-10-20 00:28:49.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-10-20 00:28:49.912] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-10-20 00:28:50.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-10-20 00:28:50.187] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-10-20 00:28:50.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-10-20 00:28:50.465] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-10-20 00:28:50.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-10-20 00:28:50.617] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-10-20 00:28:50.973] [exthost] [info] ExtensionService#_doActivateExtension prograhammer.tslint-vue {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-10-20 00:28:50.973] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/prograhammer.tslint-vue-1.5.6/out/extension
+[2019-10-20 00:28:51.049] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-10-20 00:28:51.049] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-20 00:28:51.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-10-20 00:28:51.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-10-20 00:28:51.425] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:51.425] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-20 00:28:51.493] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:51.494] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-20 00:28:51.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:51.872] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-20 00:28:51.913] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:51.913] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/alefragnani.project-manager-10.8.0/dist/extension
+[2019-10-20 00:28:51.964] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:51.965] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-10-20 00:28:52.182] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:52.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-10-20 00:28:52.454] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:52.454] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-10-20 00:28:52.582] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:52.582] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/eamodio.gitlens-10.1.1/dist/extension
+[2019-10-20 00:28:53.031] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:53.031] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/esbenp.prettier-vscode-2.3.0/out/extension
+[2019-10-20 00:28:56.207] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:56.208] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-10-20 00:28:56.301] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:28:56.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/wallabyjs.quokka-vscode-1.0.254/index
+[2019-10-20 00:28:56.339] [exthost] [info] eager extensions activated
+[2019-10-20 00:29:34.607] [exthost] [info] extension host started
+[2019-10-20 00:29:34.666] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:34.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-20 00:29:34.673] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:34.673] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-20 00:29:34.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:34.752] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-20 00:29:34.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:34.881] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-20 00:29:34.887] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:34.888] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/alefragnani.project-manager-10.8.0/dist/extension
+[2019-10-20 00:29:34.898] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:34.898] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-10-20 00:29:34.910] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:34.910] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-10-20 00:29:34.927] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:34.927] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2019-10-20 00:29:34.971] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:34.971] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/eamodio.gitlens-10.1.1/dist/extension
+[2019-10-20 00:29:35.132] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:35.132] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/esbenp.prettier-vscode-2.3.0/out/extension
+[2019-10-20 00:29:35.394] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:35.394] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-10-20 00:29:35.396] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"activationEvent":"*"}
+[2019-10-20 00:29:35.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/wallabyjs.quokka-vscode-1.0.256/index
+[2019-10-20 00:29:35.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-10-20 00:29:35.416] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-10-20 00:29:35.870] [exthost] [info] eager extensions activated
+[2019-10-20 00:32:59.934] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"activationEvent":"onLanguage:vue"}
+[2019-10-20 00:32:59.934] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/octref.vetur-0.22.4/dist/client/vueMain
+[2019-10-20 00:33:00.014] [exthost] [info] ExtensionService#_doActivateExtension prograhammer.tslint-vue {"startup":false,"activationEvent":"onLanguage:vue"}
+[2019-10-20 00:33:00.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tushar/.vscode/extensions/prograhammer.tslint-vue-1.5.6/out/extension
+[2019-10-20 00:39:53.141] [exthost] [error] [octref.vetur] provider FAILED
+[2019-10-20 00:39:53.141] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:366)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:315)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:350:44)
+	at asSymbolInformation (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-10-20 00:42:14.079] [exthost] [error] [octref.vetur] provider FAILED
+[2019-10-20 00:42:14.079] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:366)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:315)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:350:44)
+	at asSymbolInformation (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-10-20 23:46:14.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-10-20 23:46:14.160] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-10-20 23:46:14.218] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-10-20 23:46:14.218] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-10-20 23:47:16.523] [exthost] [error] [octref.vetur] provider FAILED
+[2019-10-20 23:47:16.524] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:366)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:315)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:350:44)
+	at asSymbolInformation (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-10-20 23:54:11.766] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:scss"}
+[2019-10-20 23:54:11.766] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-10-21 00:04:33.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-10-21 00:04:33.700] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-10-21 00:35:46.164] [exthost] [error] [octref.vetur] provider FAILED
+[2019-10-21 00:35:46.164] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:366)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:315)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:350:44)
+	at asSymbolInformation (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-10-21 00:35:50.383] [exthost] [error] [octref.vetur] provider FAILED
+[2019-10-21 00:35:50.384] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:366)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:315)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:350:44)
+	at asSymbolInformation (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/client.js:1005:62)
+[2019-10-21 00:38:52.640] [exthost] [error] [octref.vetur] provider FAILED
+[2019-10-21 00:38:52.640] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:366)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:361:315)
+	at new b (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:350:44)
+	at asSymbolInformation (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:411:22)
+	at values.map.information (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/protocolConverter.js:400:23)
+	at registerLanguageProvider.client.sendRequest.then (/home/tushar/.vscode/extensions/octref.vetur-0.22.4/node_modules/vscode-languageclient/lib/client.js:1005:62)

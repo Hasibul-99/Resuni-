@@ -1384,7 +1384,7 @@
             }
         }
     },
-    "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "theme": "vs",
+    "themeBackground": "#f5f5f5",
     "pickerWorkingDir": "/home/tushar/Documents/Vue"
 }

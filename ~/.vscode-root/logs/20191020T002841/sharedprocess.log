@@ -1,0 +1,20 @@
+[2019-10-20 00:28:47.189] [sharedprocess] [info] main {"machineId":"3688aba2070a13c0a11f789bbe3028bce1f731d59c97293018313e9d1ef32394"}
+[2019-10-20 00:28:54.848] [sharedprocess] [info] Deleted from disk alefragnani.project-manager /home/tushar/.vscode/extensions/alefragnani.project-manager-10.6.0
+[2019-10-20 00:28:54.849] [sharedprocess] [info] Deleted from disk eamodio.gitlens /home/tushar/.vscode/extensions/eamodio.gitlens-9.9.3
+[2019-10-20 00:28:56.321] [sharedprocess] [info] Installing extension: ms-vscode.typescript-javascript-grammar
+[2019-10-20 00:28:56.324] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2019-10-20 00:28:59.210] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/tushar/.vscode/extensions/esbenp.prettier-vscode-2.2.2
+[2019-10-20 00:28:59.210] [sharedprocess] [info] Deleted from disk msjsdiag.debugger-for-chrome /home/tushar/.vscode/extensions/msjsdiag.debugger-for-chrome-4.11.7
+[2019-10-20 00:28:59.357] [sharedprocess] [info] Deleted from disk wallabyjs.quokka-vscode /home/tushar/.vscode/extensions/wallabyjs.quokka-vscode-1.0.253
+[2019-10-20 00:28:59.441] [sharedprocess] [info] Deleted from disk octref.vetur /home/tushar/.vscode/extensions/octref.vetur-0.22.3
+[2019-10-20 00:29:00.711] [sharedprocess] [info] Downloaded extension: ms-vscode.typescript-javascript-grammar /tmp/b13fdd1f-8978-4e98-a7d0-6f78e768dd06
+[2019-10-20 00:29:00.750] [sharedprocess] [info] Extracted extension to /home/tushar/.vscode/extensions/.ms-vscode.typescript-javascript-grammar-0.0.53: ms-vscode.typescript-javascript-grammar
+[2019-10-20 00:29:00.751] [sharedprocess] [info] Renamed to /home/tushar/.vscode/extensions/ms-vscode.typescript-javascript-grammar-0.0.53
+[2019-10-20 00:29:00.753] [sharedprocess] [info] Installation completed. ms-vscode.typescript-javascript-grammar
+[2019-10-20 00:29:00.879] [sharedprocess] [info] Extensions installed successfully: ms-vscode.typescript-javascript-grammar
+[2019-10-20 00:29:16.165] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /tmp/59f83796-99c3-45ca-8e81-def0e350e63d
+[2019-10-20 00:29:19.870] [sharedprocess] [info] Extracted extension to /home/tushar/.vscode/extensions/.wallabyjs.quokka-vscode-1.0.256: wallabyjs.quokka-vscode
+[2019-10-20 00:29:19.871] [sharedprocess] [info] Renamed to /home/tushar/.vscode/extensions/wallabyjs.quokka-vscode-1.0.256
+[2019-10-20 00:29:19.873] [sharedprocess] [info] Installation completed. wallabyjs.quokka-vscode
+[2019-10-20 00:29:20.217] [sharedprocess] [info] Extensions installed successfully: wallabyjs.quokka-vscode
+[2019-10-20 00:29:27.136] [sharedprocess] [info] Starting to clean up unused language packs.

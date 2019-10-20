@@ -227,6 +227,33 @@ body {
   }
 }
 
+.blog-item {
+  .blog-item-card {
+    color: #06a763;
+    max-width: 450px;
+  }
+}
+
+.v-card--reveal {
+  align-items: center;
+  bottom: 0;
+  justify-content: center;
+  opacity: .5;
+  position: absolute;
+  width: 100%;
+}
+
+.java {
+  background-color: #06a763 !important;
+  border-color: #06a763 !important;
+}
+
+.java--text {
+  color: #06a763 !important;
+  caret-color: #06a763 !important;
+}
+
+
 @media only screen and (max-width: 767px) {
   body {
     background-color: lightblue;
@@ -309,5 +336,9 @@ body {
     .google-map-style {
       width: 340px;
     }
+  }
+
+  .blog-item-row {
+    display: block !important;
   }
 }
