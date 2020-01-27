@@ -1,3 +1,0 @@
-Loaded bundled typescript@3.6.3.
-Vetur initialized
-{ parser: "babylon" } is deprecated; we now treat it as { parser: "babel" }.

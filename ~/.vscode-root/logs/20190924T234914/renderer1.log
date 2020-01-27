@@ -1,2 +1,0 @@
-[2019-09-25 00:21:06.799] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tushar/Documents/Vue/my-resume/.vscode'
-[2019-09-25 00:21:06.800] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tushar/Documents/Vue/my-resume/.vscode'

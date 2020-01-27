@@ -2,7 +2,8 @@
     "telemetry.machineId": "3688aba2070a13c0a11f789bbe3028bce1f731d59c97293018313e9d1ef32394",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/tushar/Documents/Vue/my-resume"
+            "file:///home/tushar/Documents/React%20projects/travel-agent-app",
+            "file:///home/tushar/Documents/React%20projects/Download/now-ui-kit-react-master"
         ],
         "files2": []
     },
@@ -49,13 +50,24 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/tushar/Documents/Vue/my-resume",
-                                        "external": "file:///home/tushar/Documents/Vue/my-resume",
-                                        "path": "/home/tushar/Documents/Vue/my-resume",
+                                        "fsPath": "/home/tushar/Documents/React projects/travel-agent-app",
+                                        "external": "file:///home/tushar/Documents/React%20projects/travel-agent-app",
+                                        "path": "/home/tushar/Documents/React projects/travel-agent-app",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/Vue/my-resume"
+                                    "label": "~/Documents/React projects/travel-agent-app"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/tushar/Documents/React%20projects/Download/now-ui-kit-react-master",
+                                        "path": "/home/tushar/Documents/React projects/Download/now-ui-kit-react-master",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/React projects/Download/now-ui-kit-react-master"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1385,6 +1397,6 @@
         }
     },
     "theme": "vs",
-    "themeBackground": "#f5f5f5",
-    "pickerWorkingDir": "/home/tushar/Documents/Vue"
+    "themeBackground": "#fdf6e3",
+    "pickerWorkingDir": "/home/tushar/Documents/React projects"
 }

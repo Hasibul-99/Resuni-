@@ -13,7 +13,8 @@
         </v-img>
         <v-card-text class="pt-6" style="position: relative;">
           <v-btn absolute color="java" class="white--text" fab large right top>
-            <v-icon>mdi-arrow-right</v-icon>
+              <router-link :to="'blog/'+ blogId"><v-icon>mdi-arrow-right</v-icon></router-link>
+            <!-- <a :href="'blog/'+ blogId "><v-icon>mdi-arrow-right</v-icon></a> -->
           </v-btn>
           <div class="font-weight-light grey--text title mb-2">For the perfect meal</div>
           <h3 class="display-1 font-weight-light java--text mb-2">QW cooking utensils</h3>
