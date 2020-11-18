@@ -14,12 +14,9 @@
                 :icon="item.icon"
                 fill-dot
                 >
-                    <v-card
-                        :color="item.color"
-                        dark
-                    >
+                    <v-card :color="item.color" dark>
                         <v-card-title class="title">{{item.text}}</v-card-title>
-                        <v-card-text class="white text--primary">
+                        <v-card-text class="white text--primary pa-5">
                             <h4>{{item.school}} ({{item.section}})</h4>
                             <h4>{{item.department}}</h4>
                             <!-- <p>Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.</p> -->

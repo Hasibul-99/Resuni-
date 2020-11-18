@@ -21,7 +21,7 @@
 
                 <div class="d-flex social-network-link">
                   <v-list-item v-for="(item, i) in socialNetworkLinks" :key="i">
-                    <a href class="social btn-floating" :class="item.className">
+                    <a :href="item.link" class="social btn-floating" :class="item.className">
                       <v-icon class="white--text social-icon" v-text="item.icon"></v-icon>
                     </a>
                   </v-list-item>
@@ -52,11 +52,16 @@
       <v-container class>
         <v-card class="about-details">
           <v-card-text>
-            Hello! I’m John Doe. Senior Web Developer with over 13 years of experience
-            specializing in front end development. Experienced with all stages of the
-            development cycle for dynamic web projects.Having an in-depth knowledge
-            including advanced HTML5, CSS, CSS3, SASS, LESS, JSON, XML, Java, JavaScript,
-            JQuery, Angular JS. Strong background in management and leadership.
+            Hello! I’m Hasibul Hasan Tushar. I am a software developer with 3 years of experience 
+            in the Software Development arena specializing in front end development. 
+            Experienced with all stages of the development cycle for dynamic web projects.
+            <br>
+            <br>
+            I love to take new challenges because challenges make me more curious and proactive.
+            <br>
+            <br>
+            I am autodidact to exploring new areas of science and technologies, 
+            love to solve problems, and constantly learn from the experience.
           </v-card-text>
           <v-card-actions>
             <div class="text-center d-flex ml-auto mr-auto">
@@ -85,12 +90,12 @@ export default {
         { icon: "mdi-map-marker", text: "Dhaka, Bangldesh" }
       ],
       socialNetworkLinks: [
-        { icon: "mdi-facebook", link: "#", className: "indigo" },
-        { icon: "mdi-linkedin", link: "#", className: "blue darken-3" },
-        { icon: "mdi-instagram", link: "#", className: "purple lighten-1" },
-        // {icon: "mdi-twitter", link: "#", className: "blue"},
-        { icon: "mdi-git", link: "#", className: "red darken-1" },
-        { icon: "mdi-stack-overflow", link: "#", className: "amber darken-3" }
+        { icon: "mdi-facebook", link: "https://www.facebook.com/hasibulhasan.tushar.9/", className: "indigo" },
+        { icon: "mdi-linkedin", link: "https://bd.linkedin.com/in/hasibul-hasan-tushar", className: "blue darken-3" },
+        { icon: "mdi-instagram", link: "https://www.instagram.com/hasibul_hasan_tushar/", className: "purple lighten-1" },
+        { icon: "mdi-twitter", link: "https://twitter.com/Hasibulhasantu2", className: "blue"},
+        { icon: "mdi-git", link: "https://github.com/Hasibul-99", className: "red darken-1" },
+        { icon: "mdi-stack-overflow", link: "https://stackoverflow.com/users/8927803/hasibul", className: "amber darken-3" }
       ]
     };
   },
