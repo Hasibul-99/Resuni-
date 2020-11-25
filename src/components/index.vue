@@ -7,9 +7,9 @@
         <Navbar :drawer="drawer"></Navbar>
         <Home></Home>
         <ProfileCard></ProfileCard>
-        <Education></Education>
-        <Skills></Skills>
         <Experience></Experience>
+        <Skills></Skills>
+        <Education></Education>
         <Interest></Interest>
         <Testimonial></Testimonial>
         <Blog></Blog>

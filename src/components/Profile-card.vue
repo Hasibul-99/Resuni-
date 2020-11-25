@@ -71,6 +71,9 @@
               <div class="mr-2" @click="moveToContact">
                 <v-btn color="warning" dark>CONTACT ME</v-btn>
               </div>
+              <div class="mr-2" @click="showProjects">
+                <v-btn color="warning" dark>MY PROJECTS</v-btn>
+              </div>
             </div>
           </v-card-actions>
         </v-card>
@@ -109,6 +112,10 @@ export default {
         left: 0,
         top: position
       });
+    },
+
+    showProjects() {
+      this.$router.push({name:'projects'});
     }
   }
 };
