@@ -7,8 +7,8 @@
             <v-card class="main-profile-card">
               <v-list-item-content class="align-self-start profile-text-info">
                 <div class="info-header white--text">
-                  <v-list-item-title class="headline mb-2">HASIBUL HASAN</v-list-item-title>
-                  <v-list-item-subtitle>Software Developer</v-list-item-subtitle>
+                  <v-list-item-title class="headline mb-2">{{home.FullName}}</v-list-item-title>
+                  <v-list-item-subtitle>{{home.Designation}}</v-list-item-subtitle>
                 </div>
                 <v-list-item v-for="(item, i) in infos" :key="i" class="profile-infos">
                   <v-list-item-icon class="profile-info-icon">
@@ -83,14 +83,14 @@
 </template>
 <script>
 export default {
+  props: ['home'],
   data() {
     return {
       infos: [
-        { icon: "mdi-email", text: "hasibul_uap@outlook.com" },
-        // {icon: "mdi-earth", text: "ww.com"},
-        { icon: "mdi-skype", text: "tusher_999" },
-        { icon: "mdi-phone", text: "+880 1683902204" },
-        { icon: "mdi-map-marker", text: "Dhaka, Bangldesh" }
+        { icon: "mdi-email", text: this.home.email },
+        { icon: "mdi-skype", text: this.home.skype },
+        { icon: "mdi-phone", text: this.home.phone },
+        { icon: "mdi-map-marker", text: this.home.location }
       ],
       socialNetworkLinks: [
         { icon: "mdi-facebook", link: "https://www.facebook.com/hasibulhasan.tushar.9/", className: "indigo" },
@@ -113,7 +113,6 @@ export default {
         top: position
       });
     },
-
     showProjects() {
       this.$router.push({name:'projects'});
     }
